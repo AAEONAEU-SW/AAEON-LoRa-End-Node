@@ -1,0 +1,9 @@
+
+Disable LED1: 11.1mA(Avg.)
+Disable LED1 and LED4: 9.118mA(Avg.)
+Battery life 
+1200mAh/9.118mA=131.6hr=5.48days
+
+Remove R232/485 and LED1 4 : 7.03mA(Avg.)
+Battery life 
+1200mAh/7.03mA=170.7hr=7.1days
